@@ -5,7 +5,7 @@
 #include <Adafruit_NeoPixel.h>
 
 #define P1 4 
-#define NUMPIXELS 64
+#define NUMPIXELS 64  // Number of leds in your strip
 
 String rs;
 String gs;
