@@ -1,4 +1,4 @@
-# WS2812B Control
+# WS2812B Server Control
 Control RGB values of WS2812B led strip from a webpage. This project is for ESP8266 boards.
 This project will allow you to set any colour on WS2812B led strip from a webpage.
 
