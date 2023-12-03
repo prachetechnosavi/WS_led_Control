@@ -4,7 +4,7 @@
 #include <ESPAsyncWebServer.h>
 #include <Adafruit_NeoPixel.h>
 
-#define P1 4 
+#define P1 4 // Data pin of WS2812B led strip is connected to GPIO 4 of ESP-12F
 #define NUMPIXELS 64  // Number of leds in your strip
 
 String rs;
