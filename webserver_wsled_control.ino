@@ -13,8 +13,8 @@ String bs;
 
 Adafruit_NeoPixel matrix(NUMPIXELS, P1, NEO_GRB + NEO_KHZ800);
 
-const char* ssid = "prachet hire";
-const char* password = "helloiit";
+const char* ssid = "YOUR WIFI SSID";
+const char* password = "YOUR WIFI PASSWORD";
 
 AsyncWebServer server(80);
 
